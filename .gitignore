@@ -16,3 +16,4 @@ backend/serpapi
 # Frontend
 frontend/package.json
 frontend/package-lock.json
+node_modules/
