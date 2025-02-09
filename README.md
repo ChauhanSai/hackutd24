@@ -33,4 +33,4 @@ Whether uncovering trends or identifying performance bottlenecks, the app redefi
 
 **EcoVision**: Driving the future, one fuel-efficient mile at a time! 🚗⚡️
 
-Developed by Sai Chauhan, Jonathan Lewis, Ishita Seran, and Cheryl Wang
+Developed by Sai Chauhan, Jonathan Lewis, Ishita Saran, and Cheryl Wang
